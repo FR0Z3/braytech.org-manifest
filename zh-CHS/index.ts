@@ -13,9 +13,18 @@ import DestinyTraitDefinition from '@Data/manifest/zh-CHS/DestinyTraitDefinition
 
 const zhCHS = {
   definitions: {
+    BraytechActivityDifficultyDefinition,
     BraytechFeatureDefinition,
+    BraytechMapTypesDefinition,
+    BraytechRotationDefinition,
     DestinyActivityModifierDefinition,
     DestinyChecklistDefinition,
+    DestinyHistoricalStatsDefinition,
+    DestinyInventoryBucketDefinition,
+    DestinyInventoryItemDefinitionColloquial,
+    DestinyMilestoneDefinition,
+    DestinySourceDefinition,
+    DestinyTraitDefinition,
   },
 };
 
